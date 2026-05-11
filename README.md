@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there!+I'm+Jethin;Full-Stack+Developer+%7C+Mobile+%7C+AI%2FML;Building+innovative+solutions+with+Java%2C+Kotlin+%26+JavaScript)](https://github.com/jethin7911)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there!+I'm+Jethin;Full-Stack+Developer%7C+AI%2FML;)](https://github.com/jethin7911)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 - 💻 **Full-Stack Developer** passionate about building scalable applications across **Web, Mobile, and Backend systems**.
 
-- 🚀 Experienced with **Java, Spring Boot, JavaScript, React, Kotlin, and Python**.
+- 🚀 Experienced with **Java, Spring Boot, JavaScript, Kotlin, and Python**.
 
 - 🛠️ Specialized in **Microservices Architecture, Real-time Location Tracking, E-commerce Platforms, and AI/ML applications**.
 
@@ -23,7 +23,7 @@
 ## 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jethin7911)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jethin7911)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jethinkalvala/)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jethin7911@gmail.com)
 
 ---
@@ -42,7 +42,6 @@
 ## 🚀 Backend Development
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ---
 
